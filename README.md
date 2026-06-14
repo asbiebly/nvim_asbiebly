@@ -184,6 +184,16 @@ If you prefer not to use keybindings, you can execute these commands directly in
 * `:TexPreview` — Opens the generated PDF.
 * `:TexAutoToggle` — Enables or disables automatic compilation on every save.
 
+
+#### Copilot
+| Key                                            | Mode  | Action       |
+| :----------------------------- | :---: | :--------------------------- |
+| <kbd>Alt</kbd> + <kbd>l</kbd>  | i     | Accept                       |
+| <kbd>Ctrl</kbd> + <kbd>[</kbd> | i     | Dismiss                      |
+| <kbd>Alt</kbd> + <kbd>[</kbd>  | i     | Previous                     |
+| <kbd>Alt</kbd> + <kbd>]</kbd>  | i     | Next                         |
+
+
 #### LSP
 | Key                                                   | Mode | Action                                  |
 |-------------------------------------------------------| :--: |-----------------------------------------|
